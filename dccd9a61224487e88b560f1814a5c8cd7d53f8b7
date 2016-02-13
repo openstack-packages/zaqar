@@ -1,0 +1,7 @@
+Code-Review+2: Ryan Brown <sb@ryansb.com>
+Verified+1: rdo-ci-jenkins <whayutin+rdocijenkins@redhat.com>
+Submitted-by: Haïkel Guémar <haikel.guemar@gmail.com>
+Submitted-at: Sat, 13 Feb 2016 12:14:45 +0100
+Reviewed-on: https://review.gerrithub.io/262917
+Project: openstack-packages/zaqar
+Branch: refs/heads/rpm-master
