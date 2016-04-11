@@ -1,0 +1,8 @@
+Verified+1: rdo-ci-jenkins <whayutin+rdocijenkins@redhat.com>
+Code-Review+2: Javier Peña <jpena@redhat.com>
+Verified+1: Javier Peña <jpena@redhat.com>
+Submitted-by: Javier Peña <jpena@redhat.com>
+Submitted-at: Mon, 11 Apr 2016 06:41:36 -0400
+Reviewed-on: https://review.gerrithub.io/271901
+Project: openstack-packages/zaqar
+Branch: refs/heads/rpm-master
